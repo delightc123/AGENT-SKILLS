@@ -1,4 +1,4 @@
-# Skills Directory
+# ANTIGRAVITY SKILLS
 
 **Welcome to the skills folder!** This is where all 179+ specialized AI skills live.
 
